@@ -4,10 +4,10 @@ My TypeScript - Start Templates
 
 Some starter for Visual Studio Code (VS Code) to start TypeScript Projects.
 
-
-[TypeScript - Start Templates - Visual Studio Code (Let's Code 24)](http://www.helmbergers.com/typescript2-starter)
-
-[helmbergers.som](http://www.helmbergers.com)
+See also blog entry: 
+[Visual Studio Code - TypeScript Start Templates (Let's Code 24)](http://www.helmbergers.com/vscode-typescript-starter/)
+or YouTube entry:
+[Let's Code [024]:  Visual Studio Code - TypeScript Start Templates [deutsch]](https://youtu.be/niBcgPeDMbY)
 
 
 
