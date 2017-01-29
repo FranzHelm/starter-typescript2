@@ -1,0 +1,19 @@
+{
+  "name": "template.typescript2.nodejs",
+  "version": "1.0.0",
+  "description": "My TypeScript 2 + Node.js Application - Start Template",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.51",
+    "@types/node": "^7.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
