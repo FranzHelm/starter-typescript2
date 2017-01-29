@@ -1,7 +1,7 @@
 {
   "name": "template.typescript2",
   "version": "1.0.0",
-  "description": "Template",
+  "description": "A TypeScript 2 + Web Application - Start Template",
   "main": "index.js",
   "scripts": {
     "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",

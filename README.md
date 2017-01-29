@@ -2,7 +2,10 @@
 My TypeScript - Start Templates
 
 
-[TypeScript - Start Templates für Node.js und Web Applikations (Let's Code 24)](http://www.helmbergers.com/typescript2-starter)
+Some starter for Visual Studio Code (VS Code) to start TypeScript Projects.
+
+
+[TypeScript - Start Templates - Visual Studio Code (Let's Code 24)](http://www.helmbergers.com/typescript2-starter)
 
 [helmbergers.som](http://www.helmbergers.com)
 
@@ -21,9 +24,4 @@ TypeScript 2 + Web Application - Start Template
 This repository contains the code for following blog entry (german blog): 
 [TypeScript - Start Template für Node.js und Web Applikation (Let's Code 20 + 21)](http://www.helmbergers.com/typescript-starttemplate)
 
-
-
-## Links
-
-[helmbergers.som](http://www.helmbergers.com)
 
