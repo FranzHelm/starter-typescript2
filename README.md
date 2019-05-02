@@ -6,7 +6,7 @@ Some starter for Visual Studio Code (VS Code) to start TypeScript Projects.
 
 
 
-## Tag 2.0 (2019-05-02):
+## Tag 2.1 (2019-05-02):
 
 
 ### 1. starter-node-1
