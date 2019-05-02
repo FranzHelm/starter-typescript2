@@ -1,4 +1,3 @@
-
 import { Utils } from "./common/utils";
 
 let input = "Gurke Tomate Zwiebel";
