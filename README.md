@@ -6,7 +6,7 @@ Some starter for Visual Studio Code (VS Code) to start TypeScript Projects.
 
 
 
-## Tag 2.0 (2019-05-02):
+## Tag v2.1 (2019-05-02):
 
 
 ### 1. starter-node-1
@@ -24,6 +24,8 @@ using webpack, instead of system.js
 ## Tag v1.0 (2017-01):
 
 **!! Checkout code for tag: v1.0  !!**
+
+     git clone --branch v1.0  https://github.com/FranzHelm/starter-typescript2.git
 
 See also blog entry: 
 [Visual Studio Code - TypeScript Start Templates (Let's Code 24)](http://www.helmbergers.com/vscode-typescript-starter/)
