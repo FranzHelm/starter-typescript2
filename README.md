@@ -6,7 +6,7 @@ Some starter for Visual Studio Code (VS Code) to start TypeScript Projects.
 
 
 
-##Tag 2.0 (2019-05-02):
+## Tag 2.0 (2019-05-02):
 
 
 ### 1. starter-node-1
@@ -21,7 +21,7 @@ using webpack, instead of system.js
 
 
 
-##Tag v1.0 (2017-01):
+## Tag v1.0 (2017-01):
 
 **!! Checkout code for tag: v1.0  !!**
 
