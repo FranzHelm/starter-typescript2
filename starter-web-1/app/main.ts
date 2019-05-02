@@ -1,5 +1,4 @@
-
-import {Utils} from "./common/utils";
+import { Utils } from "./common/utils";
 
 function processButtonClick() {  
   console.log("processButtonClick");
@@ -10,7 +9,6 @@ function processButtonClick() {
   let output = Utils.kebapStyle(inputElement.value);
 
   outputElement.innerText = new Date().toLocaleTimeString() + " : " + output;
-
 }
 
-document.getElementById("hlc-btn-process").onclick = processButtonClick;
+(<HTMLInputElement>document.getElementById("hlc-btn-process")).onclick = processButtonClick;
