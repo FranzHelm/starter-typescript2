@@ -11,4 +11,6 @@ function processButtonClick() {
   outputElement.innerText = new Date().toLocaleTimeString() + " : " + output;
 }
 
-(<HTMLInputElement>document.getElementById("hlc-btn-process")).onclick = processButtonClick;
+window.onload = function () {
+  (<HTMLInputElement>document.getElementById("hlc-btn-process")).onclick = processButtonClick;
+}
