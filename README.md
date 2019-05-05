@@ -23,9 +23,9 @@ Quick start:
     npm install
     code .
    
-Build: Ctrl Shift B
-Debug: F5 
-Run: Ctrl + F5
+* Build: Ctrl Shift B
+* Debug: F5 
+* Run: Ctrl + F5
 
 ### 2. starter-web-1
 
@@ -42,11 +42,11 @@ Quick start:
     code .
 
    
-Server start:
+* Server start:
 
     npm start
 
-Debug: F5 
+* Debug: F5 
 
 
 
