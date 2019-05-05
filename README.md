@@ -6,18 +6,47 @@ Some starter for Visual Studio Code (VS Code) to start TypeScript Projects.
 
 
 
-## Tag v2.1 (2019-05-02):
+## Tag v2.2 (2019-05-04):
 
+See also blog entry (in german): 
+[VS Code/TypeScript Start Template für Node.js und Web Applikationen](https://www.helmbergers.com/vscode-typescript-start-template/)
 
 ### 1. starter-node-1
 
 updated for TypeScript 3.0
 
+Quick start:
+
+    git clone https://github.com/FranzHelm/starter-typescript2.git 
+    copy -r  .\starter-typescript2\starter-node-1\ nodeproj1\
+    cd nodeproj1\
+    npm install
+    code .
+   
+Build: Ctrl Shift B
+Debug: F5 
+Run: Ctrl + F5
 
 ### 2. starter-web-1
 
 updated for TypeScript 3.0
 using webpack, instead of system.js
+
+
+Quick start:
+
+    git clone https://github.com/FranzHelm/starter-typescript2.git 
+    copy -r  .\starter-typescript2\starter-web-1\ webproj1\
+    cd webproj1\
+    npm install
+    code .
+
+   
+Server start:
+
+    npm start
+
+Debug: F5 
 
 
 
