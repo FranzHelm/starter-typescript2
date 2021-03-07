@@ -1,7 +1,7 @@
 import _ from "lodash";
 export class Utils {
-  public static kebapStyle(input: string): string {
-    console.log(`kebapStyle(${input})`);
+  public static kebabStyle(input: string): string {
+    console.log(`kebabStyle(${input})`);
     return _.kebabCase(input);
   }
 }
