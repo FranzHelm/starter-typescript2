@@ -1,7 +1,7 @@
 {
   "name": "template.typescript2.nodejs",
   "version": "2.0.0",
-  "description": "A TypeScript 2 + Node.js - Start Template",
+  "description": "A TypeScript + Node.js - Start Template for VS Code",
   "main": "dist/main.js",
   "scripts": {
     "start": "node dist/main.js",
