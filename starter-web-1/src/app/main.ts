@@ -6,7 +6,7 @@ function processButtonClick() {
   let inputElement = (<HTMLInputElement>document.getElementById("hlc-input"));
   let outputElement = (<HTMLElement>document.getElementById("hlc-output"));
 
-  let output = Utils.kebapStyle(inputElement.value);
+  let output = Utils.kebabStyle(inputElement.value);
 
   outputElement.innerText = new Date().toLocaleTimeString() + " : " + output;
 }
